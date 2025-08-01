@@ -1,0 +1,23 @@
+.single-product-card{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    gap: 30px; 
+    justify-content: space-around;
+
+}
+.single-product{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+img{
+    width: 300px;
+}
+.product-info{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

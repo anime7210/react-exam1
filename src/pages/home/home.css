@@ -1,0 +1,15 @@
+.img{
+    width: 300px;
+}
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+.p1{
+    font-size: 18px;
+    font-weight: 700;
+    width: 200px
+}
